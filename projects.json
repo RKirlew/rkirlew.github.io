@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Fullstack Bug Tracker",
+    "url": "https://bug-tracker-vercel.vercel.app/",
+    "github": "https://github.com/RKirlew/bug-tracker-vercel/",
+    "image": "fbt.png",
+    "description": "This project allowed users to create, track, and manage bugs in real-time, boosting productivity and streamlining bug management. Implemented state management using React Context API, enhancing performance and scalability. Successfully achieved 99.9% uptime and reduced deployment time by 40% through deployment on Vercel.",
+    "stack": ["React", "NodeJS", "Firebase","ChakraUI"]
+  },
+ {
+    "name": "Handwritten Digit Recognition with CNNs",
+   
+    "github":"https://github.com/RKirlew/Handwritten-Digit-Recognizer",
+       "description": "Developed a Convolutional Neural Network (CNN) model for classifying handwritten digits using the MNIST dataset, achieving a test accuracy of 90%. Designed a model with 64 convolutional filters, MaxPooling layers, and Dropout to reduce overfitting and improve generalization. Optimized training using EarlyStopping and ModelCheckpoint, reducing training time by 20% while maintaining high accuracy.",
+    "stack": ["Keras", "Tensorflow", "Python","MNIST Dataset"]
+  },
+
+{
+    "name": "Custom Named Entity Recognition (NER) Model Development",
+       "github": "https://github.com/RKirlew/Custom-Resume-NER-Model-Development-with-spaCy",
+    "image": "https://private-user-images.githubusercontent.com/15880681/401354165-d748d57c-d0b4-42e9-a13f-22089b1f86e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5ODI3MjEsIm5iZiI6MTczNjk4MjQyMSwicGF0aCI6Ii8xNTg4MDY4MS80MDEzNTQxNjUtZDc0OGQ1N2MtZDBiNC00MmU5LWExM2YtMjIwODliMWY4NmU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE1VDIzMDcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4M2Q2YmUxNjZjMjg2YTRjNmUyYzRiMWRmMjQxZmU4ZGY5NWMyZGZjMTVkMTdjNzI4ZTE3NGVhODljNTZiOGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OjnfmxYhXg0d7Nz1Pxkv8mRjvmbPElcq-_4vVHCbEmQ",
+    "description": "This project allowed users to create, track, and manage bugs in real-time, boosting productivity and streamlining bug management. Implemented state management using React Context API, enhancing performance and scalability. Successfully achieved 99.9% uptime and reduced deployment time by 40% through deployment on Vercel.",
+    "stack": ["spaCy", "Python", "NLP","JSON","scikit-learn"]
+  }, 
+
+
+{
+    "name": "League of Legends Champion Classifier using K-Nearest Neighbors (KNN)",
+    
+    "github": "https://github.com/RKirlew/League-of-Legends-Champion-Classifier-using-K-Nearest-Neighbors-KNN-",
+       "description": "This project leverages machine learning to classify champions in the popular game League of Legends based on their attributes. The model predicts a champion's class (e.g., Assassin, Tank, Mage) using features such as Base HP, Base Mana, Difficulty, Role, and Range Type. This project showcases a complete ML pipeline, including data preprocessing, feature engineering, and model evaluation.",
+    "stack": ["Python", "scikit-learn", "K-Nearest-Neighbours","Pandas"]
+  },
+{
+    "name": "Elm Media Player",
+    "image":"https://github.com/RKirlew/Elm-Media-Player/raw/main/elmplayer.gif",
+    "github": "https://github.com/RKirlew/Elm-Media-Player",
+       "description": "A simple to use media player which uses the BASS library for audio playback and for the Fast Fourier Transformation visualization. Utilizes ImGUI for the GUI and for plotting the FFT.",
+    "stack": ["C++", "ImGui", "BASS"]
+  },
+
+{
+    "name": "Gratitud.ly",
+    "image":"https://private-user-images.githubusercontent.com/15880681/257645803-dcd15745-0b0d-4629-9ad5-00a617fe2cac.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5ODM5NTksIm5iZiI6MTczNjk4MzY1OSwicGF0aCI6Ii8xNTg4MDY4MS8yNTc2NDU4MDMtZGNkMTU3NDUtMGIwZC00NjI5LTlhZDUtMDBhNjE3ZmUyY2FjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE1VDIzMjczOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyM2I2ZWUyNTE0NGE1OTNjZjdkZTI1YTAxNDkwZjQxZWE5NGRlZjFkZjU0ODcwOWVjMGQ2YTc1MGZjMzVmYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.otbkoTkBeOm_UXBz0UQw3T4g_KyX3X15YWkT0_fZUGw",
+    "github": "https://github.com/RKirlew/Gratitud.ly",
+       "description": "The Gratitude Tracker App is a mobile application developed using Flutter and integrated with Firebase backend. The app allows users to record their daily moments of gratitude and tracks their mood scores over time. It also provides data visualization and basic statistics on gratitude entries and mood scores. Additionally, the app offers personalized suggestions to improve mood based on the user's mood score. ",
+    "stack": ["Flutter", "Firebase", "Dart"]
+  }
+
+
+
+
+
+]
