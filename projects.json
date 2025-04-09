@@ -27,7 +27,7 @@
     "name": "Custom Named Entity Recognition (NER) Model Development",
        "github": "https://github.com/RKirlew/Custom-Resume-NER-Model-Development-with-spaCy",
     "image": "ner.png",
-    "description": "This project allowed users to create, track, and manage bugs in real-time, boosting productivity and streamlining bug management. Implemented state management using React Context API, enhancing performance and scalability. Successfully achieved 99.9% uptime and reduced deployment time by 40% through deployment on Vercel.",
+    "description": "Developed a custom Named Entity Recognition (NER) model using spaCy, trained on manually annotated data to accurately extract domain-specific entities from text. The project included building a clean annotation pipeline, training the model on structured JSON data, and validating its performance on unseen examples."
     "stack": ["spaCy", "Python", "NLP","JSON","scikit-learn"]
   }, 
 
