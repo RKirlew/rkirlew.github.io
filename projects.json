@@ -9,7 +9,8 @@
   },
  {
     "name": "Handwritten Digit Recognition with CNNs",
-   
+     "image": "https://www.mathworks.com/products/demos/machine-learning/handwriting_recognition/handwriting_recognition/_jcr_content/mainParsys/image_0.adapt.full.medium.png/1469940824221.png",
+
     "github":"https://github.com/RKirlew/Handwritten-Digit-Recognizer",
        "description": "Developed a Convolutional Neural Network (CNN) model for classifying handwritten digits using the MNIST dataset, achieving a test accuracy of 90%. Designed a model with 64 convolutional filters, MaxPooling layers, and Dropout to reduce overfitting and improve generalization. Optimized training using EarlyStopping and ModelCheckpoint, reducing training time by 20% while maintaining high accuracy.",
     "stack": ["Keras", "Tensorflow", "Python","MNIST Dataset"]
