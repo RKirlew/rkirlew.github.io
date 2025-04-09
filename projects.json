@@ -17,7 +17,7 @@
 
   {
   "name": "Perceptron From Scratch",
-  "image": "https://www.w3schools.com/ai/img_perceptron.jpg",
+  "image": "https://db0dce98.rocketcdn.me/en/files/2021/04/illu_perceptron_blog-138.png",
   "github": "https://github.com/RKirlew/Simple-Perceptron-Implementation",
   "description": "A C++ implementation of a Perceptron model, inspired by Frank Rosenblatt's original 1957 design. It demonstrates how weighted inputs, bias, and threshold combine to make binary decisions, simulating the behavior of a neuron.",
   "stack": ["C++", "OOP", "Neural Networks"]
