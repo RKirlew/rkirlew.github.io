@@ -1,4 +1,13 @@
 [
+
+  {
+  "name": "First Round – AI Interview Simulator",
+  "url": "https://usefirstround.com",
+  "github": "https://github.com/RKirlew/First-Round",
+  "image": "Screenshot 2026-03-07 162734.png",
+  "description": "First Round is an AI-powered interview simulator that allows users to practice real interview scenarios with voice interactions. The platform records responses in the browser, transcribes audio in real time, and generates AI-driven feedback to help candidates improve their answers. Built a full-stack architecture with real-time voice workflows, structured feedback analysis, and a responsive dashboard for reviewing interview sessions.",
+  "stack": ["React", "Next.js", "Node.js", "Firebase", "OpenAI"]
+},
   {
     "name": "Fullstack Bug Tracker",
     "url": "https://bug-tracker-vercel.vercel.app/",
