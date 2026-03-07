@@ -8,6 +8,24 @@
   "description": "First Round is an AI-powered interview simulator that allows users to practice real interview scenarios with voice interactions. The platform records responses in the browser, transcribes audio in real time, and generates AI-driven feedback to help candidates improve their answers. Built a full-stack architecture with real-time voice workflows, structured feedback analysis, and a responsive dashboard for reviewing interview sessions.",
   "stack": ["React", "Next.js", "Node.js", "Firebase", "OpenAI"]
 },
+
+  {
+  "name": "Glamure – Salon Booking & Scheduling Platform",
+  "url": "https://glamure.vercel.app/",
+  "github": "https://github.com/RKirlew/Glamure",
+  "image": "Screenshot 2025-07-04 112950.png",
+  "description": "Glamure is an online scheduling platform designed for salons and beauty professionals to manage appointments and client bookings. Customers can browse services and reserve time slots through a responsive booking interface, while salon owners manage staff availability, services, and upcoming appointments through a centralized dashboard. Implemented a full-stack booking system with dynamic time-slot generation and real-time schedule updates to prevent double bookings.",
+  "stack": ["React", "Next.js", "Node.js", "Firebase", "Vercel"]
+},
+
+  {
+  "name": "Happen – Embedded Customer Feedback Platform",
+  "url": "https://happen-zeta.vercel.app/",
+  "github": "https://github.com/RKirlew/Happen",
+  "image": "https://source.unsplash.com/1600x900/?customer-feedback,analytics,dashboard",
+  "description": "Happen is an embedded feedback collection platform that allows businesses to capture user feedback directly from their websites using a lightweight script widget. Users generate a widget tied to their account and embed it via a script tag, enabling visitors to submit feedback in real time. Built a multi-tenant SaaS architecture with a dynamic widget loader, API ingestion pipeline, and dashboard for aggregating and analyzing feedback across products.",
+  "stack": ["Next.js", "React", "Firebase", "Node.js", "Vercel"]
+},
   {
     "name": "Fullstack Bug Tracker",
     "url": "https://bug-tracker-vercel.vercel.app/",
